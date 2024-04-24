@@ -29,7 +29,7 @@ To run the application locally, follow these steps:
 2. Navigate to the project directory:
 3. Install dependencies:(npm install)
 4. Start the development server:  npm run dev
-5. Open your web browser and navigate to `http://localhost:3000` to access the application.
+5. Deployed Link : https://chat-frontend-five-bay.vercel.app/register
 
 ---
 
